@@ -1,0 +1,14 @@
+{
+  "name": "rust-yin",
+  "collaborators": [
+    "Rares"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "rust_yin_bg.wasm",
+    "rust_yin.js",
+    "rust_yin.d.ts"
+  ],
+  "main": "rust_yin.js",
+  "types": "rust_yin.d.ts"
+}
